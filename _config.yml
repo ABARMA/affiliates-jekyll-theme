@@ -1,35 +1,35 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
-logo: 'assets/images/logo.png'
+name: "Broad Funnel"
+title: "Earn money online via Digital Marketing"
+description: "Learn how to create content like podcasts, youtube videos, blog posts or emails to promote online products and earn commissions"
+meta_description: "Content marketing to earn money online"
+logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
-email: 'wowthemesnet@gmail.com'
+baseurl: ''
+email: 'pallavigupto@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+#sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  sue:
+    name: Sue B
+    display_name: Sue B
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
+    email: pallavigupto@gmail.com
+    #web: https://www.wowthemes.net/category/jekyll-themes/
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Internet marketer. Avid podcast listener. Enjoys sharing ideas and opportunities in the growing audio marketing trends."
+  ash:
+    name: Ashlyn
+    display_name: Ashlyn
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: pallavigupto@gmail.com
+    #web: https://www.wowthemes.net/category/jekyll-themes/
+    #twitter: https://twitter.com/wowthemesnet
+    description: "Learner and sharer. Likes to experiment and talk about growth strategies across different mediums/platforms."
 
 # Plugins
 plugins: 
