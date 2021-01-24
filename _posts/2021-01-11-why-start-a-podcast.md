@@ -2,7 +2,7 @@
 layout: post
 title:  "5 reasons why you should start a podcast in 2021"
 author: sue
-categories: [ podcast ]
+categories: [ podcast creation]
 feature: true
 image: assets/images/6.jpg
 ---
