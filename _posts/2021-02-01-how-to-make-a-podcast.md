@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "[Part 1] How to make a Podcast"
+title:  "How to make a Podcast"
 description: "Learn basics of podcasting and things you should know to start your podcast creation journey today!"
 author: ash
 categories: [podcast creation]
 feature: true
-image: assets/images/how-to-start-a-podcast.jpg
+image: assets/images/how-to-start-a-podcast.png
 ---
 
 So you're thinking about starting a podcast? Here's why that is brilliant! The thought itself brings you ahead of many and I'm here to help you figure out the rest. 
@@ -16,11 +16,11 @@ Once you know your reason, all you need to do is read ahead and learn How To Mak
 
 <h2> How to choose podcast topic ideas? </h2> 
 
-Determining podcast topic ideas may be the first thing that can stump you. You could either be struggling to find an idea, or maybe you have lots of them and aren't sure what to pick. In order to narrow down on a podcast topic idea, it is important to brainstorm all possible topics and build a consideration set. A good way to do this is by following the 5P strategy for content creation.
+Determining podcast topic ideas may be the first thing that can stump you. You could either be struggling to find an idea, or maybe you have lots of them and aren't sure what to pick. In order to narrow down on a podcast topic idea, it is important to brainstorm all possible topics and build a consideration set. A good way to do this is by following the 5P Framework for Ideas
 
 <img src="{{site.baseurl}}/assets/images/podcast-topic-ideas.jpg" alt="Podcast topic ideas">
 
-<h3>5P Strategy for Content Creation</h3>
+<h3>5P Framework for Ideas</h3>
 
 <ol>
 <h4><li>Passion</li></h4>
@@ -86,7 +86,7 @@ Each of these formats tend to have different segments, and it is important to th
 <li>Reviews with Call-to-action</li>
 <li>Outro</li>
 </ul>
-Quick Tip: Begin with some of these, if not all, and evolve your segments over time. Don’t stress over getting it right. What matters is that you start.
+<b>Quick Tip:</b> Begin with some of these, if not all, and evolve your segments over time. Don’t stress over getting it right. What matters is that you start.
 
 <h2>How to plan podcast episodes?</h2>
 
@@ -104,6 +104,6 @@ To begin with, it can help to get some ideas from the following sources in the t
 </ul>
 
 
-This feels like the right point to pause and wrap up <b>Part 1</b> of <b>How to make a podcast.</b> On completing each of the steps mentioned here you will be miles ahead of most others who are not thinking strategically. Buying equipment is secondary, and we will come to that. But first, it's important that you spend some time thinking about these points and fleshing out your podcast ideas in detail. 
+This feels like the right point to pause. On completing each of the steps mentioned here you will be miles ahead of most others who are not thinking strategically about <b> How to make a podcast</b>. Buying equipment is important, and we will come to that. But first, it's important that you spend some time thinking about these points and fleshing out your podcast ideas in detail. 
 
-Let's go! 
+So, let's go!
