@@ -3,7 +3,7 @@ layout: post
 title:  "How to make a Podcast"
 description: "Learn basics of podcasting and things you should know to start your podcast creation journey today!"
 author: ash
-categories: [podcast creation]
+categories: podcast-creation
 feature: true
 image: assets/images/how-to-start-a-podcast.png
 ---

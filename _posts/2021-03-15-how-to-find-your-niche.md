@@ -3,7 +3,7 @@ layout: post
 title:  "How to find your niche for podcasts?"
 description: "Framework to find your niche to build a successful podcast"
 author: sue
-categories: [podcast creation]
+categories: podcast-creation
 feature: true
 image: assets/images/finding-your-niche.png
 ---

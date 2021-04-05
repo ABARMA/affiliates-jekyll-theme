@@ -3,7 +3,7 @@ layout: post
 title:  "So You Want to Start a Podcast"
 description: "Convert Podcasting Strategies into Action. Read and Get Started Now!"
 author: ash
-categories: [podcast creation]
+categories: podcast-creation
 feature: true
 image: assets/images/start-a-podcast.png
 ---

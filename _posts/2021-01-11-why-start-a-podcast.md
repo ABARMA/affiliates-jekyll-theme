@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Why start a podcast in 2021"
+title:  "Why start a podcast | 2021"
 description: "5 reasons why you should learn to podcast and join the creator economy right now"
 author: sue
-categories: [ podcast creation]
+categories: podcast-creation
 feature: true
 image: assets/images/why-start-a-podcast.png
 ---

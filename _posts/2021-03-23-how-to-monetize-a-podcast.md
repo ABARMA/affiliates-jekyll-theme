@@ -3,7 +3,7 @@ layout: post
 title:  "How to monetize podcasts?"
 description: "Figure out ways to monetize podcast when you already have a following"
 author: ash
-categories: [podcast growth]
+categories: podcast-growth
 feature: true
 image: assets/images/podcast-monetization.png
 ---
