@@ -1,0 +1,31 @@
+---
+layout: default
+title: Best Podcast Summaries
+description: Save time and learn key insights from your favourite podcasts!
+---
+<!-- Home Jumbotron
+================================================== -->    
+<section class="summaries full-width">
+   <div class="wrapintro">
+           <h3> Best ideas from Podcasts in minutes</h3> 
+	        <p> Summarized for Your Learning & Growth!</p> 
+    </div>
+</section>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>Podcast Summaries</span></h2>
+    </div>
+
+   <div class="row listfeaturedtag">
+    {% for post in site.categories.podcast-summaries %}
+	
+            {% include featuredbox.html %}
+	
+    {% endfor %}
+
+    </div>
+</section>

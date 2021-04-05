@@ -1,8 +1,8 @@
 # Site
 name: "Broad Funnel"
-title: "Earn money online via Digital Marketing"
-description: "Learn how to create content like podcasts, youtube videos, blog posts or emails to promote online products and earn commissions"
-meta_description: "Content marketing to earn money online"
+title: "Make money online through podcasts"
+description: "Learn how to create content like podcasts, youtube videos, blog posts or emails to promote your product or business and make money online"
+meta_description: "Podcasting your way to make money online"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
@@ -10,21 +10,22 @@ baseurl: ''
 email: 'pallavigupto@gmail.com'
 google_analytics: 'G-BCWQETRNWJ'
 disqus: 'demowebsite'
+permalink: /:categories/:title/
 #sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
 # Authors
 authors:
   sue:
-    name: Sue B
-    display_name: Sue B
+    name: Pallavi G
+    display_name: Pallavi G
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: pallavigupto@gmail.com
     #web: https://www.wowthemes.net/category/jekyll-themes/
     #twitter: https://twitter.com/wowthemesnet
     description: "Internet marketer. Avid podcast listener. Enjoys sharing ideas and opportunities in the growing audio marketing trends."
   ash:
-    name: Ashlyn
-    display_name: Ashlyn
+    name: Ashwin R
+    display_name: Ashwin R
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: pallavigupto@gmail.com
     #web: https://www.wowthemes.net/category/jekyll-themes/
@@ -44,9 +45,10 @@ jekyll-archives:
   enabled:
     - categories
   layout: archive
-  permalinks:
-    category: '/:category/:name'
-    
+  #permalink: none
+  #category: '/:category/:name'
+  
 # Other
 markdown: kramdown
 highlighter: rouge
+
