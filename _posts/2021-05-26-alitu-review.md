@@ -3,7 +3,7 @@ layout: post
 title:  "How to Use Alitu |  Beginners' Guide"
 description: "Record the first episode of your podcast using the easiest possible way out there. Try Alitu - The Podcast Maker App Now! "
 author: sue
-categories: podcast-apps
+categories: podcast-creation
 feature: true
 image: assets/images/alitu-review-for-podcast-creation.png
 ---
