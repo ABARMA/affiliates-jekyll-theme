@@ -42,7 +42,7 @@ In February'21, Alitu crossed 2000 paying users as their brand continues to grow
 <p>In addition to the app, you get $540 worth of educational courses, from their own Podcast Host Academy, that are very helpful for a first-time podcaster.  
 </p>
 <h5>How to setup Alitu </h5>
-<p>In order to access Alitu, I suggest that you sign up for a 7-day free trial first, and when convinced about the value it offers, extend it to the paid subscription. Keep in mind that your card details will be needed while signing up for the free trial itself. You can <a href="https://alitu.com/">Sign up here,</a>
+<p>In order to access Alitu, I suggest that you sign up for a 7-day free trial first, and when convinced about the value it offers, extend it to the paid subscription. Keep in mind that your card details will be needed while signing up for the free trial itself. You can <a href="https://alitu.com?fp_ref=broadfunnel">Sign up here,</a>
 
 </p>
 
@@ -140,4 +140,4 @@ Alitu has made podcast publishing super simple. Here's what you must do.
 <li><a href="#5">Publish your Episode</a></li></ul>
 
 <p>If you're a podcasting beginner, I suggest you should certainly consider Alitu. It alleviates a lot of the headaches that you'd want to avoid when you are just starting out. </p>
-<p><a href="https://alitu.com/">Sign up here</a> to for your free trial!</p>
+<p><a href="https://alitu.com?fp_ref=broadfunnel">Sign up here</a> to for your free trial!</p>
