@@ -3,7 +3,7 @@ name: "Broad Funnel"
 #title: "Start and Grow Podcasts"
 #description: "Learn how to start a podcast, grow a following and make money online"
 #meta_description: "Join the Creator Economy. Become a Podcaster Now!"
-logo: 'assets/images/logo.jpg'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: ''
