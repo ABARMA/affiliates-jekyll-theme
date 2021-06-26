@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pinterest Marketing in 2021 | How to increase traffic? "
+title: "Pinterest Marketing in 2021"
 description: "Check out the best pinterest marketing strategies to grow in 2021 by learning about new features that pinterest has to offer for its users"
 author: ash
 categories: podcast-summaries

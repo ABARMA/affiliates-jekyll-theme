@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-comments: true
+comments: true 
 ---
 
 Learn about online money-making opportunities and unique ways to grow via digital marketing.  
