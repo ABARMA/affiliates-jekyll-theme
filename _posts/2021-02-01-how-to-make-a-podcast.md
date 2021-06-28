@@ -5,7 +5,7 @@ description: "Learn basics of podcasting and things you should know to start you
 author: ash
 categories: podcast-creation
 feature: true
-image: assets/images/how-to-start-a-podcast.png
+image: assets/images/how-to-start-a-podcast.webp
 ---
 
 So you're thinking about starting a podcast? Here's why that is brilliant! The thought itself brings you ahead of many and I'm here to help you figure out the rest. 

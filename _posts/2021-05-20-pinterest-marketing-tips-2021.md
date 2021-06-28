@@ -5,7 +5,7 @@ description: "Check out the best pinterest marketing strategies to grow in 2021 
 author: ash
 categories: podcast-summaries
 hidden: true
-image: assets/images/pinterest-marketing-2021.png
+image: assets/images/pinterest-marketing-2021.webp
 ---
 
 #### How to become a Smart Marketer?

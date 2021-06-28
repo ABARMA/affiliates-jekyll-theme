@@ -5,7 +5,7 @@ description: "Epigamia Owner, Rohan Mirchandani, talks about his journey with Ar
 author: sue
 categories: podcast-summaries
 hidden: true
-image: assets/images/d2c-startup-stories-epigamia.png
+image: assets/images/d2c-startup-stories-epigamia.webp
 ---
 <p> Rohan Mirchandani has built a strong D2C (direct to consumer) brand in India called Epigamia, which is grossing over 100 crores in revenue as of FY20. </p>
 

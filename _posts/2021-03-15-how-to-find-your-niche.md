@@ -5,7 +5,7 @@ description: "Framework to find your niche to build a successful podcast"
 author: sue
 categories: podcast-creation
 feature: true
-image: assets/images/finding-your-niche.png
+image: assets/images/finding-your-niche.webp
 ---
 
 Podcasts are a great opportunity both for individuals to build a personal brand, and for businesses to acquire customers organically. Audio search is the new growing trend, and just as blogs are crucial for traffic generation, podcasts will drive organic growth. It is therefore crucial to find your niche so that you can create an interesting podcast series that provides consistent valuable content for the audience who tune in for your episodes.
@@ -24,7 +24,7 @@ Even if your answer was any different, play the devil's advocate and try to poke
 
 <h3><a name="1"> Define your audience </a></h3>
 
-<img src="{{ site.baseurl }}/assets/images/find-podcast-niche.png" alt="find podcast niche">
+<img src="{{ site.baseurl }}/assets/images/find-podcast-niche.webp" alt="find podcast niche">
 
 Traditional marketing makes us think from a funnels perspective. The focus lies on driving in a large group of people (i.e. traffic) to the site through valuable content delivery, and conversion maximization of those people into customers of the product you offer.  This surely works for blogs, newsletters or other written long-form content formats. However, for organic growth through audio content i.e. podcasts, the key is word of mouth referrals within a community of people. 
 
