@@ -5,7 +5,7 @@ description: "Convert Podcasting Strategies into Action. Read and Get Started No
 author: ash
 categories: podcast-creation
 feature: true
-image: assets/images/start-a-podcast.png
+image: assets/images/start-a-podcast.webp
 ---
 
 You've thought about a podcast idea and have a plan in place to get started? If so, you're in the right place. 

@@ -5,7 +5,7 @@ description: "5 reasons why you should learn to podcast and join the creator eco
 author: sue
 categories: podcast-creation
 feature: true
-image: assets/images/why-start-a-podcast.png
+image: assets/images/why-start-a-podcast.webp
 ---
 
 Shifting consumer habits in the era of remote working have made podcasts the modern-day equivalent of workplaces' water cooler moments, where hot topics and trends were often discussed. Since people don't want to miss out on trends, the number of podcasts listeners have risen steeply and are expected to continue to rise in the future. For many, podcasts have become a productive form of content consumption on valuable topics such as business, startups, behavioural economics, psychology, positive mindset and so on. Most people tune in while driving, cooking, or working out. For creators, therefore, podcasts is an opportunity ripe for taking.  It is a great new way of growing an audience that has targeted needs. Not convinced yet? Check out the 5 reasons why you should start a podcast in 2021 below. 

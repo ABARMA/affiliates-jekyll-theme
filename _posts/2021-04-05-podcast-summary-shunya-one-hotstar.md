@@ -5,7 +5,7 @@ description: "Insights from Hotstar's Shobhit Singhal on why online businesses s
 author: ash
 categories: podcast-summaries
 hidden: true
-image: assets/images/podcast-summary-shunya-one-hotstar.png
+image: assets/images/podcast-summary-shunya-one-hotstar.webp
 ---
 
 Shobhit Singhal, Associate Director of Product at Hotstar, shares his views on why Online Indian businesses should focus on content. 

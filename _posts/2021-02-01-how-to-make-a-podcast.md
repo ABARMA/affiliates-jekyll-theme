@@ -18,7 +18,7 @@ Once you know your reason, all you need to do is read ahead and learn How To Mak
 
 Determining podcast topic ideas may be the first thing that can stump you. You could either be struggling to find an idea, or maybe you have lots of them and aren't sure what to pick. In order to narrow down on a podcast topic idea, it is important to brainstorm all possible topics and build a consideration set. A good way to do this is by following the 5P Framework for Ideas
 
-<img src="{{site.baseurl}}/assets/images/podcast-topic-ideas.jpg" alt="Podcast topic ideas">
+<img src="{{site.baseurl}}/assets/images/podcast-topic-ideas.webp" alt="Podcast topic ideas">
 
 <h3>5P Framework for Ideas</h3>
 

@@ -5,7 +5,7 @@ description: "Set up soundcloud for podcasting"
 author: sue
 categories: podcast-creation
 feature: true
-image: assets/images/podcasting-with-soundcloud.png
+image: assets/images/podcasting-with-soundcloud.webp
 ---
 
 The world of audio has been a growing trend in the digital content space. Being a more passive medium than video and written text, it can be consumed while doing other activities such as cooking, workout etc. Music has always played this role, however, with a shift in consumer interests towards knowledge and self-growth, podcasts and audiobooks have taken off.

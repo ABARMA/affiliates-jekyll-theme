@@ -5,7 +5,7 @@ description: "Tally's Bharat Goenka shares key tenets for building a profitable 
 author: sue
 categories: podcast-summaries
 hidden: true
-image: assets/images/podcast-summary-indian-dream-pod-tally.png
+image: assets/images/podcast-summary-indian-dream-pod-tally.webp
 ---
 
 Tally, an Enterprise Accounting Software Solution founded in 1986, has had a crazy ride. They have a strong presence of 2 million customers across India, Middle East and parts of Africa, and are supported by a 20000 strong distribution network. Bharat Goenka, co-founder of Tally, talks about the key tenets that helped them build a profitable business and sustain it for decades. 

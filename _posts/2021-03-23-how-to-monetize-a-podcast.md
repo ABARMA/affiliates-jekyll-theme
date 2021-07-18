@@ -5,7 +5,7 @@ description: "Figure out ways to monetize podcast when you already have a follow
 author: ash
 categories: podcast-growth
 feature: true
-image: assets/images/podcast-monetization.png
+image: assets/images/podcast-monetization.webp
 ---
 
 Unsure about monetizing your podcast? Afraid you would annoy or lose your following? You aren't alone. Most podcast creators like you face these challenges. I'm here to help you understand why those thoughts might be incorrect and and to discuss different ways in which you can monetize podcasts without affecting your following.

@@ -26,7 +26,7 @@ But first.
 <p><a href="https://epigamia.com/" rel="nofollow" target="_blank">Epigamia</a> is India's first branded plant-based yoghurt made with coconut milk as it seeks to transform the Indian dairy industry. </p>
 
 <p> Epigamia's team is dedicated to creating healthier snacking options for their consumers. All of their products are made with fresh, locally-sourced ingredients and have no preservatives or artificial flavours.</p>
-<img src = "{{site.baseurl}}/assets/images/what-is-epigamia.png" alt="what is epigamia"/>
+<img src = "{{site.baseurl}}/assets/images/what-is-epigamia.webp" alt="what is epigamia"/>
 
 
 #### <a name="1">Key Lessons on Entrepreneurship in India </a>

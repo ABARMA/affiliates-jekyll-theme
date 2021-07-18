@@ -5,7 +5,7 @@ description: "List of Top podcast apps across platforms you love to use"
 author: sue
 categories: podcast-apps
 feature: true
-image: assets/images/podcast-apps-android-iphone.png
+image: assets/images/podcast-apps-android-iphone.webp
 ---
 
 In the recent years, podcasting has become one of the fastest growing mediumn for content consumption. And it has a lot of room to grow. To cater to the growing demand, several podcast player apps have been developed on different platforms. If you are an avid podcast listener like I am, chances are you are looking for the best podcast app too. To help you out, I've categorized the best podcast apps for android, iPhone, Windows or any of your other favorite platforms out there. 

@@ -5,7 +5,7 @@ description: "Founder of Quality Works, Stacy Kirk, redefines the meaning of Pro
 author: ash
 categories: podcast-summaries
 hidden: true
-image: assets/images/podcast-summary-building-quality-products.png
+image: assets/images/podcast-summary-building-quality-products.webp
 ---
 
 Bugs are the bane of existence for product teams. They frustrate our users and screw up our deliveries. Stacy Kirk, founder/CEO of QualtityWorks, shares the true meaning of building quality products, how to measure software quality, role of diversity, and more.
