@@ -1,0 +1,31 @@
+---
+layout: default
+title: Business Trends in India
+description: Find opportunities in the growing industries and start a profitable business
+---
+<!-- Home Jumbotron
+================================================== -->    
+<section class="summaries full-width">
+   <div class="wrapintro">
+           <h3> Growing Trends in India</h3> 
+	        <p>Ideas that can help you start a profitable business!</p> 
+    </div>
+</section>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>Trends</span></h2>
+    </div>
+
+   <div class="row listfeaturedtag">
+    {% for post in site.categories.trends %}
+	
+            {% include featuredbox.html %}
+	
+    {% endfor %}
+
+    </div>
+</section>
