@@ -1,0 +1,31 @@
+---
+layout: default
+title: List of Best Podcasts 2021
+description: Best podcasts to listen to in each of your favourite genres
+---
+<!-- Home Jumbotron
+================================================== -->    
+<section class="summaries full-width">
+   <div class="wrapintro">
+           <h3> Best podcasts to listen to in 2021</h3> 
+	        <p> Categorized by your favourite genres and activities!</p> 
+    </div>
+</section>
+
+<!-- Featured
+================================================== -->
+<section class="featured-posts">
+
+    <div class="section-title">
+        <h2><span>Podcast Summaries</span></h2>
+    </div>
+
+   <div class="row listfeaturedtag">
+    {% for post in site.categories.best-podcasts-lists%}
+	
+            {% include featuredbox.html %}
+	
+    {% endfor %}
+
+    </div>
+</section>
